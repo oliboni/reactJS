@@ -1,0 +1,9 @@
+.ListaRestaurantes {
+   margin-top: 1.5rem;
+   padding: 2rem;
+
+   &__filter {
+      display: flex;
+      justify-content: space-between;
+   }
+}

@@ -53,6 +53,7 @@ npm i classnames
 > > `className={classNames({ [styles.filters__filter]: true, [styles["filters__filter--ativo"]]: filter === option.id })}`
 
 ## ESLINT
+> npm init @eslint/config
 
 ![eslint](eslint.png)
 
@@ -65,3 +66,19 @@ Após configurar, executar
 Configuração de rotas
 
 > npm i react-router-dom
+
+## Axios
+
+Usado para Requisições async
+
+> npm i axios
+
+## Mui
+
+### Lib com componentes
+
+Necessário instalar os componentes abaixo
+
+> npm i @mui/material @emotion/react @emotion/styled
+
+E também adicionar a fonte e font icons conforme doc [mui.com](muai.com)
